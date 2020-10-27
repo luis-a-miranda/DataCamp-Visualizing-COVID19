@@ -1,14 +1,2 @@
-# Basic .gitattributes for a R repo.
-
-# Source files
-# ============
-*.Rdata binary
-*.RData binary
-*.rda   binary
-*.rdb   binary
-*.rds   binary
-*.Rd    text
-*.Rdx   binary
-*.Rmd	  text
-*.R  	  text
-*.Rproj text
+*.ipynb linguist-detectable=false
+*.R linguist-detectable=true 
