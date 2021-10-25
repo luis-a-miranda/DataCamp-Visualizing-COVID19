@@ -13,7 +13,7 @@ Comparison of China vs Rest of the World (hardest hit countries) as of Mid-March
      <td>Hardest Hit Countries (without China)</td>
   </tr>
   <tr>
-    <td><img src="covid19%20china.png" width=270 height=480></td>
-    <td><img src="covid19%20countries%20besides%20china.png" width=270 height=480></td>
+    <td><img src="covid19%20china.png" width=400 height=480></td>
+    <td><img src="covid19%20countries%20besides%20china.png" width=400 height=480></td>
   </tr>
  </table>
