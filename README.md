@@ -9,5 +9,5 @@ Comparison of China vs Rest of the World (hardest hit countries) as of Mid-March
 
 Hardest Hit Countries (without China)  |  China vs The World
 :-------------------------:|:-------------------------:
-![image](https://github.com/luis-a-miranda/Beginner-Project-Visualizing-COVID19/blob/main/covid19%20countries%20besides%20china.png)  |  ![image](https://github.com/luis-a-miranda/Beginner-Project-Visualizing-COVID19/blob/main/covid19%20china.png)
+![image](https://github.com/luis-a-miranda/Beginner-Project-Visualizing-COVID19/blob/main/covid19%20countries%20besides%20china.png)  |  ![image](https://github.com/luis-a-miranda/Beginner-Project-Visualizing-COVID19/blob/main/covid19%20china.png) 
 
