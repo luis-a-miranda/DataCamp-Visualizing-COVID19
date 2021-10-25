@@ -5,7 +5,7 @@ This project focuses on manipulating dataframes using "dplyr" and make plots usi
 
 ## Results:
 
-Comparison of China vs Rest of the World (hardest hit countries) as of Mid-March 2020.
+Results show how the virus grew in China and Rest of the World (hardest hit countries) as of Mid-March 2020.
 
 <table>
   <tr>
