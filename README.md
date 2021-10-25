@@ -5,6 +5,6 @@ This project focuses on manipulating dataframes using "dplyr" and make plots usi
 
 ## Results:
 
-In depth comparison of China vs Rest of the World (hardest hit countries) as of Mid-March 2020.
+Comparison of China vs Rest of the World (hardest hit countries) as of Mid-March 2020.
 
 ![image](https://github.com/luis-a-miranda/Beginner-Project-Visualizing-COVID19/blob/main/covid19%20countries%20besides%20china.png) 
