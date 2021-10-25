@@ -4,4 +4,7 @@ Within months, COVID-19 went from an epidemic to a pandemic. From the first iden
 This project focuses on manipulating dataframes using "dplyr" and make plots using "ggplot2".
 
 ## Results:
-In depth comparison of China vs Rest of the World and hardest hit countries as of Mid-March 2020.
+
+In depth comparison of China vs Rest of the World (hardest hit countries) as of Mid-March 2020.
+
+![image](https://github.com/luis-a-miranda/Beginner-Project-Visualizing-COVID19/blob/main/covid19%20countries%20besides%20china.png)
