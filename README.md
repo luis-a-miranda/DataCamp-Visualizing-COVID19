@@ -17,3 +17,5 @@ Results show how the virus grew in China and Rest of the World (hardest hit coun
     <td><img src="covid19%20countries%20besides%20china.png" width=450 height=480></td>
   </tr>
  </table>
+
+Copyright (c) 2020 DataCamp, Inc.
